@@ -1132,7 +1132,7 @@ form {
 }
 
 .rsm-content {
-  width: 300px;
+  width: 200px;
   background-color: aliceblue;
   padding: 20px;
   text-align: center;
@@ -1149,9 +1149,6 @@ form {
   margin-left: 60px;
 }
 
-/* .invisible {
-  display: none;
-} */
 
 
 
