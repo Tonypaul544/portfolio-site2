@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: fantasy;
+  font-family: cursive;
   font-weight: 600;
   word-spacing: 6px;
   scrollbar-width: none;
@@ -995,6 +995,7 @@ form {
     overflow-x: hidden;
     box-sizing: border-box;
     font-size: 17px;
+    font-family: cursive;
 
   }
 
