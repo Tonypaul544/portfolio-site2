@@ -1083,7 +1083,8 @@ form {
   float: right;
   bottom: 0;
   position: fixed;
-  margin: 0 90px 30px 93%;
+  margin-left: 85%;
+  font-size: 57px;
 }
 
 
