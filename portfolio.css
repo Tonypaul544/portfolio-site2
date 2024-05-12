@@ -993,7 +993,7 @@ form {
     max-width: 100%;
     background-color: aliceblue;
     padding: 0;
-/*     overflow-x: hidden; */
+    overflow-x: unset;
     box-sizing: border-box;
     font-size: 17px;
     font-family: cursive;
